@@ -1,0 +1,22 @@
+{
+    "name": "ken-stdlib",
+    "version": "0.1.0",
+    "description": "Standard library for Ken knowledgebases",
+    "main": "\"\"",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kenstandard/data-ken.git"
+    },
+    "keywords": [
+        "ken"
+    ],
+    "author": "Ozzie Gooen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kenstandard/data-ken/issues"
+    },
+    "homepage": "https://github.com/kenstandard/data-ken#readme"
+}
